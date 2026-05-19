@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <g shape-rendering="crispEdges">
+    <!-- Grass top -->
+    <rect x="0" y="0" width="32" height="8" fill="#71a03a"/>
+    <rect x="0" y="8" width="32" height="2" fill="#5a7d2e"/>
+    <!-- Dirt body -->
+    <rect x="0" y="10" width="32" height="22" fill="#9c6b4b"/>
+    <rect x="0" y="10" width="32" height="4" fill="#8a5e42"/>
+    <rect x="0" y="28" width="32" height="4" fill="#7a5239"/>
+  </g>
+</svg>
